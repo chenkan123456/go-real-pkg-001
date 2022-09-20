@@ -30,6 +30,8 @@ var MsgFlags = map[int]string{
 	ERROR_AD_AUTH:      "账号信息验证有误",
 	ERROR_AD_AUTH_USER: "工号(邮箱前缀)不存在",
 	ERROR_AD_AUTH_PWD:  "账号密码错误",
+
+	ERROR_AD_AUTH_TEST: "测试",
 }
 
 // GetMsg get error information based on Code
