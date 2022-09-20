@@ -3,8 +3,8 @@ package app
 import (
 	"fmt"
 
-	"gitlab.centaline-sc.com/real-db-project/go-pkg/pkg/e"
-	"gitlab.centaline-sc.com/real-db-project/go-pkg/pkg/util"
+	"github.com/chenkan123456/go-real-pkg-001/pkg/e"
+	"github.com/chenkan123456/go-real-pkg-001/pkg/util"
 
 	"github.com/gin-gonic/gin"
 )

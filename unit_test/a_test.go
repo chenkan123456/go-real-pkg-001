@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"gitlab.centaline-sc.com/real-db-project/go-pkg/pkg/util"
+	"github.com/chenkan123456/go-real-pkg-001/pkg/util"
 )
 
 func TestDate(t *testing.T) {

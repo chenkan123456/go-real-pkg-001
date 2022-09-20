@@ -3,9 +3,8 @@ package app
 import (
 	"net/http"
 
-	"gitlab.centaline-sc.com/real-db-project/go-pkg/pkg/e"
-
 	"github.com/astaxie/beego/validation"
+	"github.com/chenkan123456/go-real-pkg-001/pkg/e"
 	"github.com/gin-gonic/gin"
 )
 
